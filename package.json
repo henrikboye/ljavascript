@@ -1,0 +1,19 @@
+{
+  "name": "ljavascript",
+  "version": "1.0.0",
+  "description": "learning javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrikboye/ljavascript.git"
+  },
+  "author": "henrikboye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrikboye/ljavascript/issues"
+  },
+  "homepage": "https://github.com/henrikboye/ljavascript#readme"
+}
