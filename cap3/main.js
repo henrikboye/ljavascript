@@ -42,24 +42,28 @@
 // obj[SIZE] =8;
 // obj[SIZE];
 
-const sam1 = {
-  name: 'Sam',
-  age: 4,
-};
+// const sam1 = {
+//   name: 'Sam',
+//   age: 4,
+// };
 
-const sam2 = { name: 'Sam', age: 4};
+// const sam2 = { name: 'Sam', age: 4};
 
-const sam3 = {
-  name: 'Sam',
-  classification :{
-    phylum: 'Chordata',
-    class: 'Mamalia', 
-    order: 'Carnivoria', 
-    family: 'Felidae', 
-    subfamily: 'Felinae', 
-    genus: 'Felis', 
-    species: 'catus'
-  }
-};
+// const sam3 = {
+//   name: 'Sam',
+//   classification :{
+//     phylum: 'Chordata',
+//     class: 'Mamalia', 
+//     order: 'Carnivoria', 
+//     family: 'Felidae', 
+//     subfamily: 'Felinae', 
+//     genus: 'Felis', 
+//     species: 'catus'
+//   }
+// };
 
-console.log(obj);
+// console.log(obj);
+
+
+const now = new Date();
+console.log(now);
